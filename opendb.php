@@ -1,7 +1,7 @@
- <?php
+﻿ <?php
 $servername = "sql.itcn.dk:3306";
 $username = "huss0045.EADANIA";
-$password = "n3S8Unj48A";
+$password = "";
 $dbname = "huss00453.EADANIA";
 
 
