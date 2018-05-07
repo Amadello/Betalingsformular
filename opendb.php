@@ -1,8 +1,8 @@
 ﻿ <?php
-$servername = "sql.itcn.dk:3306";
-$username = "huss0045.EADANIA";
+$servername = "";
+$username = "";
 $password = "";
-$dbname = "huss00453.EADANIA";
+$dbname = "";
 
 
 // Create connection
